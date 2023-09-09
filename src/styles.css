@@ -1,0 +1,41 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+/* footer{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.Main {
+  flex-grow: 1;
+}
+
+
+
+
+
+
+
+
